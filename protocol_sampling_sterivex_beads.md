@@ -83,6 +83,7 @@ samp_size_unit: mL
 | 1.0.1 | 2024-10-23 | Formatting edits |
 | 1.1.0 | 2024-11-16 | Addition of FAIR eDNA terms in YAML frontmatter |
 | 1.2.0 | 2025-01-08 | Clarified the concentration of bleach throughout |
+| 1.2.1 | 2025-04-22 | Corrected storage temperature |
 
 - Version numbers start at 1.0.0 when the protocol is first completed and will increase when changes that impact the outcome of the procedure are made (patches: 1.0.1; minor changes: 1.1.0; major changes: 2.0.0).
 - Release date is the date when a given protocol version was finalised.
