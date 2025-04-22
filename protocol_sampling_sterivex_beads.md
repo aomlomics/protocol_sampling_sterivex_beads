@@ -213,7 +213,7 @@ Sample preservation
 
 Storage
 
-1. Freeze at ≥ –20 °C until extraction.
+1. Freeze at ≤ –20 °C until extraction.
 
 Post-Sampling
 1. Return the bottle of DNA/RNA Shield to a refrigerator to reduce contamination.
@@ -227,16 +227,21 @@ Negative field controls are included with every research cruise. After the addit
 ### Basic troubleshooting guide
 
 Leaks
+
 - If there is a leak present in the pump setup, you will notice trouble pulling water through the pump system. Check all seals and re-attach tubing.
 
 Clogged Filter
+
 - If a filter is clogged, turn valves and connections off and attempt to clear obstructions (i.e. large chunks of sediment or algae). Make note of any abnormal conditions and try to pump the full volume of seawater through the filter. In more productive areas, especially surface samples, we would frequently have filters that could not take the full volume. Since there are only two pumps and multiple sample depths at one time, it was common for us to use a cut-off time before starting next sample (~45 min).
 
 ## REFERENCES
+
 Not applicable.
 
 ## APPENDIX A: DATASHEETS
+
 Not applicable.
 
 ## APPENDIX B: VIDEO & IMAGE FILES
+
 [Filtering Video (Youtube): eDNA Sampling for Bio-GO-SHIP](https://www.youtube.com/watch?v=RjJ_bpb1z04)
